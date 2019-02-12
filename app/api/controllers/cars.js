@@ -12,6 +12,7 @@ module.exports = {
   });
  },
 
+
 getAll: function(req, res, next) {
   let carsList = [];
 
